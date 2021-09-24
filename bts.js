@@ -60,7 +60,7 @@ if (confirmAction) {
      var sixthQuestion = prompt("¿Quienes con los integrantes de BTS? \n 1. V \n 2. JungKook \n 3. RM \n 4. JiMin \n 5. J-Hope \n 6. Agust D\n 7. Jin \n 8. Todos \n 9. Ninguno")
      if (sixthQuestion == 8) {
         alert ("¡Excelente! Pasemos a la siguiente")
-    } else {
+    } else { 
        alert("Incorrecto :(")  
     }
     document.getElementById("respuestaseisc").innerHTML = sixthQuestion;
