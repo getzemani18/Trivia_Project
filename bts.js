@@ -86,6 +86,8 @@ if (confirmAction) {
      }
    
   
+
+
 //  preguntas incorrectas (i)
    document.getElementById("preguntaunoi").style.display="none"
    document.getElementById("preguntadosi").style.display="none"
@@ -98,4 +100,6 @@ if (confirmAction) {
    document.getElementById("headerincorrectas").style.display="none"
 
 }
+
+
 
